@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646818329602",
+    "firebase_url": "https://thehotel2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "thehotel2",
+    "storage_bucket": "thehotel2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646818329602:android:32a4159523cf40fa34e31b",
+        "android_client_info": {
+          "package_name": "com.example.thehotel2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646818329602-ut7v7sfenu97e8ao2oneb9gp8ldjf0jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdytDDArRXiG-pKI35d-mCfUxatnJf-8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646818329602-ut7v7sfenu97e8ao2oneb9gp8ldjf0jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
